@@ -1,0 +1,1 @@
+# GRAZ2026-WorkshopConsciousnessBCI
