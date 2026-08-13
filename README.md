@@ -1,4 +1,4 @@
-# GRAZ2026-WorkshopConsciousnessBCI
+# Exploring EEG and Brain-Computer Interface Approaches for Tracking Consciousness
 
 10th International Graz Brain-Computer Interface Conference 2026
 
