@@ -36,7 +36,7 @@ Consciousness ? ” - Fabien Lotte - 10 min
 **Part I: Monitoring consciousness during general anesthesia
 Talks (45 min):**
 - “Detecting Accidental Awareness during General Anesthesia with Neuromuscular Blockade: Challenges and Considerations” - Sebastian Halder (15 min)
-- “Tracking Consciousness with Median Nerve Stimulation Based-BCI during General Anesthesia” - Valérie Marissens Cueva (15 min)
+- “Towards a BCI-based marker of conscious processing during anesthesia” - Valérie Marissens Cueva (15 min)
 - “Monitoring Consciousness across Anaesthesia and Disorders of Consciousness Using Metrics of Critical Brain Dynamics” - Oren Shriki (15 min)
 
 **Interactive discussions with the audience** (animated by Laurent Bougrain) (30 min)
